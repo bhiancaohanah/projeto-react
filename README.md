@@ -1,4 +1,4 @@
-#Projeto React - Página de Notícias
+<h1>Projeto React - Página de Notícias</h1>
 
 Projeto inicial de aprendizado do React, com a criação da página inicial de um site de notícias.
 
