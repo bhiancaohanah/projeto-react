@@ -2,4 +2,4 @@
 
 Projeto inicial de aprendizado do React, com a criação da página inicial de um site de notícias.
 
-![print do projeto](<../../../Space Flight News.png>)
+![Space Flight News](https://github.com/bhiancaohanah/projeto-react/assets/146952106/66e95ae5-7dfc-434b-b790-6ad27a96910f)
